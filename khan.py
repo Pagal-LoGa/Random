@@ -6,5 +6,5 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from RNDM64 import main
-    subhan()
+    from Filpp import main
+    main()
